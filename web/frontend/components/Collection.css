@@ -1,0 +1,19 @@
+.collectionHeader {
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.collectionHeader p:first-child {
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.Polaris-Filters-ConnectedFilterControl__CenterContainer+.Polaris-Filters-ConnectedFilterControl__RightContainer,
+.Polaris-Filters-ConnectedFilterControl__CenterContainer+.Polaris-Filters-ConnectedFilterControl__MoreFiltersButtonContainer {
+    display: none;
+}
+
+.Polaris-TextField__ClearButton {
+    display: none;
+}

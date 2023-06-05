@@ -1,0 +1,40 @@
+.planHeader {
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.planHeader p:first-child {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.plan .Polaris-List {
+    list-style: none;
+    padding: 0;
+}
+
+.plan .Polaris-Subheading {
+    text-transform: none;
+    font-weight: bold;
+}
+
+.listItems {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.iconContent {
+    display: flex;
+}
+
+.iconContent span {
+    padding-right: 3px;
+    width: 22px;
+}
+
+.btn {
+    display: flex;
+    justify-content: end;
+}

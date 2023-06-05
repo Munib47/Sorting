@@ -1,0 +1,14 @@
+.settingHeader {
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.settingHeader p:first-child {
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.Polaris-Banner--withinPage .Polaris-Banner__Ribbon {
+    display: none;
+}

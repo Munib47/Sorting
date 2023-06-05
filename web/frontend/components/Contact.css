@@ -1,0 +1,10 @@
+.contactHeader {
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.contactHeader p:first-child {
+    font-size: 20px;
+    font-weight: 600;
+
+}

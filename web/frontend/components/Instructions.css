@@ -1,0 +1,10 @@
+.instructionsHeader {
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.instructionsHeader p:first-child {
+    font-size: 20px;
+    font-weight: 600;
+
+}

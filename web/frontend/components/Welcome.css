@@ -1,0 +1,10 @@
+.welcomeHeader {
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.welcomeHeader p:first-child {
+    font-size: 20px;
+    font-weight: 600;
+
+}
